@@ -8,10 +8,17 @@ To run the app locally, follow these steps:
 
 Clone the repository to your local machine.
 Install the required dependencies by running npm install.
-Run the app in development mode with npm start or yarn start.
+
+```
+$ npm install
+
+```
+
+
 Navigate to http://localhost:3000 in your web browser.
 
 
+    
 ## Authentication
 To use the app, you must first authenticate. Click on the "Login" button in the top right corner of the app, and enter your name and email id.
 
@@ -29,7 +36,7 @@ To get a match dog based on your favorites, click the "Match Dog" button in the 
 1. Authentication with name and email
 2. Retrieve dog data using breeds
 3. Add dogs to favorites and remove them from favourites
-4. Retrieve match dog based on favorite dog temperaments
+4. Retrieve match dog based on favorite dog.
 
 
 ## Contact Information
