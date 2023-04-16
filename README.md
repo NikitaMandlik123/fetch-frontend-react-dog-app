@@ -2,6 +2,8 @@
 
 This repository contains a React app that demonstrates the ability to make API calls to different endpoints, including authentication, retrieving dog breeds, adding dogs to favorites, and getting the match dog as a result.
 
+Deployed Link - (https://fetch-dog-react-app.onrender.com)
+
 ## Installation
 
 To run the app locally, follow these steps:
