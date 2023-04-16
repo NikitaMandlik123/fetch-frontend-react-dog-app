@@ -7,16 +7,16 @@ This repository contains a React app that demonstrates the ability to make API c
 To run the app locally, follow these steps:
 
 Clone the repository to your local machine.
-Install the required dependencies by running npm install or yarn install.
+Install the required dependencies by running npm install.
 Run the app in development mode with npm start or yarn start.
 Navigate to http://localhost:3000 in your web browser.
-Usage
+
 
 ## Authentication
-To use the app, you must first authenticate. Click on the "Login" button in the top right corner of the app, and enter your username and password.
+To use the app, you must first authenticate. Click on the "Login" button in the top right corner of the app, and enter your name and email id.
 
 ## Dog Breeds
-Once authenticated, you can search for dogs by breed. Enter a breed name into the search bar and click "Search". The app will retrieve a list of dogs that match your search query. Click on a dog to view more details, including a photo, breed, and temperament.
+Once authenticated, you can search for dogs by breed. Enter a breed name into the search bar and click "Search". The app will retrieve a list of dogs that match your search query. Click on a dog to view more details, including a photo, breed, age and location.
 
 ## Favorites
 To add a dog to your favorites, click the "Add to Favorites" button on the dog's details page. You can view your favorite dogs by clicking the "Favorites" button in the top right corner of the app. From there, you can remove dogs from your favorites by clicking the "Remove" button next to each dog.
@@ -26,14 +26,10 @@ To get a match dog based on your favorites, click the "Match Dog" button in the 
 
 ## Features
 
-Authentication with username and password
-Retrieve dog breeds and display details
-Add dogs to favorites
-Remove dogs from favorites
-Retrieve match dog based on favorite dog temperaments
-Contribution Guidelines
-
-If you wish to contribute to this project, please fork the repository and submit a pull request. Be sure to include detailed information about any changes you have made.
+1. Authentication with name and email
+2. Retrieve dog data using breeds
+3. Add dogs to favorites and remove them from favourites
+4. Retrieve match dog based on favorite dog temperaments
 
 
 ## Contact Information
