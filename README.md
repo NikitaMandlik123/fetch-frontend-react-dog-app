@@ -6,16 +6,22 @@ This repository contains a React app that demonstrates the ability to make API c
 
 To run the app locally, follow these steps:
 
-Clone the repository to your local machine.
-Install the required dependencies by running npm install.
+1. Clone the repository to your local machine.
+2. Install the required dependencies by running npm install.
 
 ```
 $ npm install
 
 ```
+3. Run app in development environment using npm start.
 
+```
 
-Navigate to http://localhost:3000 in your web browser.
+$ npm start
+
+```
+
+4. Navigate to http://localhost:3000 in your web browser.
 
 
     
